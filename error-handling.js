@@ -50,7 +50,7 @@ function greet(greeting) {
 }
 
 try {
-  greet('');
+  greet('Hi');
 } catch (e) {
   console.log('Hello World!')
 }
